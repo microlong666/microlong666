@@ -7,7 +7,7 @@
 
 * :iphone: A tech nerd and fans of new products
 
-* :two_hearts: Love gaming:video_game: and photography:camera_flash:
+* :two_hearts: Love gaming :video_game: and photography :camera_flash:
 
 **My Blog currently updating:**
 
@@ -19,14 +19,14 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFNAs.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFw90.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFahq.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFJBQ.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFY7j.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFUNn.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFGng.png"></code>
 ...
 
 ![MicroLOONG's github stats](https://github-readme-stats.vercel.app/api?username=microlong666&show_icons=true)
