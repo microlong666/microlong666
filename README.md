@@ -17,10 +17,11 @@
 
 * :thought_balloon: If you have some great ideas, I'll look forward to your contributions.
 
-**Languages and Tools:**
+**Technology Stack**
 
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFNAs.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2020/08/12/avS93j.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFw90.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFahq.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFJBQ.png"></code>
@@ -29,6 +30,11 @@
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFGng.png"></code>
 ...
 
-![MicroLOONG's github stats](https://github-readme-stats.vercel.app/api?username=microlong666&show_icons=true)
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=microlong666&show_icons=true" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microlong666&layout=compact" />
+</a>
 
 `※ FOR REFERENCE ONLY`
