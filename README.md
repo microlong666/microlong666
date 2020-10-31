@@ -11,7 +11,7 @@
 
 **My Blog currently updating:**
 
-[English](https://blog.microloong.xyz/en) | [Chinese](https://blog.microloong.xyz/)
+[English](https://blog.microloong.xyz/en) | [中文](https://blog.microloong.xyz/)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
