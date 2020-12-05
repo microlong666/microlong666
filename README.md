@@ -1,4 +1,7 @@
 ### Hi there 你好 👋
+
+![microlong666](https://count.getloli.com/get/@microlong666?theme=moebooru)
+
 > I'm [MicroLOONG](https://blog.microloong.xyz/en), an undergraduate major in IoT from China.
 
 * :thinking: Not oustanding enough that always doubt life
