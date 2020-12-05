@@ -39,6 +39,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=microlong666&show_icons=true" />
 </a>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microlong666&layout=compact" />
-</a>
+⬇ Have a Talk Here~ ⬇
+
+[![ChatRoom](https://chat.getloli.com/room/@microlong666/svg?width=494&height=193.05&limit=20&theme=light&fontSize=13&title=microlong666@github.com:%20~)](https://chat.getloli.com/room/@microlong666)
