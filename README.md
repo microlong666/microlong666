@@ -24,7 +24,6 @@
 
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFNAs.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFJBQ.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFY7j.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFUNn.png"></code>
