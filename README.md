@@ -2,7 +2,7 @@
 
 ![microlong666](https://count.getloli.com/get/@microlong666?theme=moebooru)
 
-> I'm [MicroLOONG](https://blog.microloong.xyz/en/about/), an undergraduate major in IoT from China.
+> I'm [MicroLOONG](https://blog.microloong.me/en/about/), an undergraduate major in IoT from China.
 
 * :thinking: Not oustanding enough that always doubt life
 
@@ -14,7 +14,7 @@
 
 **My Blog currently updating:**
 
-[English](https://blog.microloong.xyz/en) | [中文](https://blog.microloong.xyz/)
+[English](https://blog.microloong.me/en) | [中文](https://blog.microloong.me/)
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
