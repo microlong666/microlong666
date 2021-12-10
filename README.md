@@ -22,8 +22,8 @@
 
 **Technology Stack**
 
-<code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFNAs.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwF3jS.png"></code>
+<code><img height="20" src="https://s1.ax1x.com/2021/12/10/ooK5aq.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFJBQ.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFY7j.png"></code>
 <code><img height="20" src="https://s1.ax1x.com/2020/07/15/UwFUNn.png"></code>
@@ -36,6 +36,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=microlong666&show_icons=true" />
 </a>
 
-⬇ Have a Talk Here~ ⬇
+  ⬇ Chat Here~ ⬇
 
 [![ChatRoom](https://chat.getloli.com/room/@microlong666/svg?width=494&height=193.05&limit=20&theme=light&fontSize=13&title=microlong666@github.com:%20~)](https://chat.getloli.com/room/@microlong666)
