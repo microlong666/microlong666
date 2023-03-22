@@ -12,7 +12,7 @@
 
 * :two_hearts: Love gaming :video_game: and photography :camera_flash:
 
-**My Blog currently updating:**
+**My Blog currently updating: (temperately not available)**
 
 [English](https://blog.microloong.tech/en) | [中文](https://blog.microloong.tech/)
 
