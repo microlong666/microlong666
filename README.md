@@ -14,7 +14,7 @@
 
 **My Blog currently updating: (temperately not available)**
 
-[English](https://blog.microloong.tech/en) | [中文](https://blog.microloong.tech/)
+~~[English](https://blog.microloong.tech/en) | [中文](https://blog.microloong.tech/)~~
 
 * :speech_balloon: Questions are welcomed by commenting under articles.
 
@@ -35,7 +35,3 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=microlong666&show_icons=true" />
 </a>
-
-  ⬇ Chat Here~ ⬇
-
-[![ChatRoom](https://chat.getloli.com/room/@microlong666/svg?width=494&height=193.05&limit=20&theme=light&fontSize=13&title=microlong666@github.com:%20~)](https://chat.getloli.com/room/@microlong666)
